@@ -25,12 +25,3 @@ A secure, interactive Streamlit web app that allows individual users to log thei
 | `bcrypt`    | Password hashing            |
 | `pandas`    | Data analysis & cleaning    |
 | `plotly`    | Charting                    |
-
----
-
-## 🚀 Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/Fitness-Tracker.git
-cd Fitness-Tracker
