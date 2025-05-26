@@ -32,5 +32,5 @@ A secure, interactive Streamlit web app that allows individual users to log thei
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/progress-tracker-app.git
-cd progress-tracker-app
+git clone https://github.com/yourusername/Fitness-Tracker.git
+cd Fitness-Tracker
